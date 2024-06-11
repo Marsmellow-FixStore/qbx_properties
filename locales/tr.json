@@ -1,0 +1,47 @@
+"notify": {
+    "no_access": "Erişim yok.",
+    "someone_at_door": "Kapınızda birisi var!",
+    "keyholder": " anahtar sahibi olarak eklenmiştir.",
+    "added_as_keyholder": "Anahtar sahibi olarak eklenmişsiniz.",
+    "removed_as_keyholder": " anahtar sahibi olarak kaldırılmıştır."
+},
+"alert": {
+    "give_keys": "Bu kişiye anahtar verilsin mi?",
+    "apartment_selection": "Apartman Seçimi",
+    "are_you_sure": "%s almak istediğinizden emin misiniz?",
+    "want_remove_keys": "Bu kişinin anahtarlarını kaldırmak istiyor musunuz?",
+    "want_let_person_in": "Bu kişiyi içeri almak istiyor musunuz?",
+    "property_name": "Mülk Adı",
+    "property_name_description": "Mülkün basit açıklayıcı adı",
+    "price": "Fiyat",
+    "price_description": "Satın alma fiyatı veya kira için kesilecek fiyat",
+    "rent_interval": "Kira aralığı",
+    "rent_interval_description": "Kira kesilecek aralık saat cinsinden (mülkün satın alınabilir olmasının yerine kiralanabilir olmasını sağlar)"
+},
+"menu": {
+    "add_keyholder": "Anahtar Sahibi Ekle",
+    "people_inside": "İçerideki Kişiler",
+    "keyholders": "Anahtar Sahipleri",
+    "doorbell_ringers": "Kapı Zili Çalanlar",
+    "manage_keys": "Anahtarları Yönet",
+    "doorbell": "Kapı Zili",
+    "manage_property": "Mülkü Yönet",
+    "enter": "Giriş",
+    "ring_doorbell": "Kapı Zilini Çal",
+    "properties": "Mülkler",
+    "retrieve_properties": "Sahip Olunan Mülkleri Geri Al",
+    "show_owned_properties": "Sadece sahip olduğunuz mülkleri göster",
+    "interior_preview": "İç Mekan Önizleme"
+},
+"instructButtons": {
+    "up": "Yukarı",
+    "down": "Aşağı",
+    "submit": "Gönder"
+},
+"drawtext": {
+    "stash": "[E] - Stash",
+    "exit": "[E] - Çıkış | [G] - Yönet",
+    "clothing": "[E] - Kıyafet | [G] - Kıyafetler",
+    "logout": "[E] - Çıkış Yap",
+    "view_property": "[E] - Mülkü Görüntüle"
+}
